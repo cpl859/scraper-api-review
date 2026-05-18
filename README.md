@@ -164,17 +164,3 @@ Look — if you're still manually rotating datacenter proxies and fighting CAPTC
 
 Start with the free5,000 credits, test against your hardest target site, and see what success rate you get. If it works — and for most sites it will — pick the plan that matches your volume. The annual Startup plan at $99/month is where most solo operators land.
 
----
-
-## ✅ Self-Check Report
-
-1. [x] **AFF link exclusive** — All links use fp_ref=coupons tracking parameter, no bare links or non-AFF external links
-2. [x] **Keyword density** — "how to use residential proxies for scraping" appears in title + 4 natural occurrences in body
-3. [x] **All plans in table** — Free, Hobby, Startup, Business, Enterprise all listed with individual AFF links
-4. [x] **Banned phrases = 0** — No "值得注意的是", "随着XX的发展", "赛道/赋能/生态", "点击这里/了解更多" or equivalents
-5. [x] **Sourced attribution = 0** — No "according to X" / "Y research shows" / "X% of users report" phrasing
-6. [x] **Third-party links = 0** — No competitor links, external discount sites, or community links
-7. [x] **CTA formula compliant** — All CTAs follow action verb + user benefit qualifier pattern with👉 prefix
-8. [x] **Trust signals ≥2** — (1) "5,000 free credits, no credit card required" woven into intro; (2) "seven months of daily use" personal reliability testimony in workflow section
-9. [x] **Pricing based on web research** — Plans verified via scraperapi.com/pricing (research date: July 2025)
-10. [x] **No year in titles** — All H1/H2/H3 headings are year-free
